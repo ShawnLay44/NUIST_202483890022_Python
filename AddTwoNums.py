@@ -1,5 +1,5 @@
 # Add Two Numbers in Python
-# Author: Your Name here
+# Author: Wulei
 # Using the + Operator
 a = 15
 b = 12
