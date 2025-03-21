@@ -1,4 +1,4 @@
-#Author:Wulei
+#Author:Wulei/
 #Date:2025/3/21
 #Mutiply three nums
 a = int(input("Enter the first number: "))
